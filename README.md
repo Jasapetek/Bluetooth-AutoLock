@@ -13,4 +13,4 @@ Automatically locks your Windows PC when a selected Bluetooth device (e.g., your
 ## Requirements
 
 - Windows 10 or later
-- [.NET 6](https://dotnet.microsoft.com/en-us/download/dotnet/6.0)
+- [.NET 9.0 Desktop Runtime](https://dotnet.microsoft.com/en-us/download/dotnet/9.0) (or above)
